@@ -1,5 +1,5 @@
 
-# Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
 This repository contains a Jupyter Notebook for performing **customer churn analysis** using a telecommunications dataset. The notebook demonstrates data preprocessing, exploratory data analysis (EDA), and the application of machine learning models to predict customer churn.
 
